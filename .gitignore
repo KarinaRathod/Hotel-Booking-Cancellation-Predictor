@@ -1,0 +1,21 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Note: Do NOT ignore your model.pkl or encoders.pkl if you want to 
+# deploy this directly from GitHub to Streamlit Cloud! 
+# If they are very large (>100MB), you might need Git LFS.
