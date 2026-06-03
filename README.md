@@ -53,9 +53,5 @@ streamlit run app.py
 * `encoders.pkl`: The saved label encoders for processing categorical inputs.
 * `requirements.txt`: List of Python dependencies.
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-```
 
